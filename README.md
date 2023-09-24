@@ -18,7 +18,7 @@ I am an independent developer and content creator, challenging myself to build c
  
 <h3 align="center"> Languages-Frameworks-Tools </h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,bash,golang,c,java,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=python,django,flask,bash,golang,java" /><br>
     <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,azure,jenkins,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=wordpress,webflow,flutter,figma"/><br>
 </div>
