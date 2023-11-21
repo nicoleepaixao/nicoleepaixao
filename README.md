@@ -20,7 +20,6 @@ I am an independent developer and content creator, challenging myself to build c
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,django,flask,bash,golang,java" /><br>
     <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,azure,jenkins,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=wordpress,webflow,flutter,figma"/><br>
 </div>
 
 <h3 align="center"> Stats </h3>
