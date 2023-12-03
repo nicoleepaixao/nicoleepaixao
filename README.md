@@ -4,7 +4,7 @@
 
 **`DevOps (Developer/Criative/@kodar.br®️)`**
 
-I am an independent developer, challenging myself to build creative and high-quality projects that address the needs of clients. Developed from scratch, from the planning and design of the solution to solving real-world problems using low-code or no-code approaches. I share knowledge and believe in the power of collaboration for growth. Having freedom is what inspires me in my projects and brings new ideas. I share more content on my company's Instagram profile <a href="https://www.instagram.com/kodar.br/">@kodar.br</a>®️. Follow us there ッ
+Brazilian and independent developer, challenging myself to build creative and high-quality projects that address the needs of clients. Developed from scratch, from the planning and design of the solution to solving real-world problems using low-code or no-code approaches. I share knowledge and believe in the power of collaboration for growth. Having freedom is what inspires me in my projects and brings new ideas. I share more content on my company's Instagram profile <a href="https://www.instagram.com/kodar.br/">@kodar.br</a>®️. Follow us there ッ
 
    <p align="left"> 
       <a href="https://github.com/nicoleepaixao?tab=followers">
