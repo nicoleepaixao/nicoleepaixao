@@ -4,7 +4,7 @@
 
 **`DevOps (Developer/Criative/@kodar.br®️)`**
 
-I am an independent developer and content creator, challenging myself to build creative, high-quality projects that address customer pain points, developed from the ground up, from planning and design to solving real-world problems with code or no-code. Passionate about sharing knowledge and believe in the power of collaboration for growth. I love to travel, which inspires me in my projects and brings new ideas, and I'm a sports enthusiast. I share more content on my company's Instagram profile <a href="https://www.instagram.com/kodar.br/">@kodar.br</a>®️. Follow us there ッ
+I am an independent developer, challenging myself to build creative and high-quality projects that address the needs of clients. Developed from scratch, from the planning and design of the solution to solving real-world problems using low-code or no-code approaches. I share knowledge and believe in the power of collaboration for growth. Having freedom is what inspires me in my projects and brings new ideas. I share more content on my company's Instagram profile <a href="https://www.instagram.com/kodar.br/">@kodar.br</a>®️. Follow us there ッ
 
    <p align="left"> 
       <a href="https://github.com/nicoleepaixao?tab=followers">
@@ -13,13 +13,13 @@ I am an independent developer and content creator, challenging myself to build c
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/nicoleepaixao?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyo!+🤙;+I'm+Nicole+Paixão!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyo!+🤙;" />
 </h2>
  
 <h3 align="center"> I know </h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,bash,golang,java" /><br>
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,azure,jenkins,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,bash,golang,java" /><br>
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,azure,jenkins,mysql,ansible" /><br>
 </div>
 
 <h3 align="center"> Stats </h3>
@@ -27,8 +27,8 @@ I am an independent developer and content creator, challenging myself to build c
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleepaixao" />
 </div>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I+owe+you+one!+🤟;I'm+always+down+to+collab+ッ">
-</h3>
+<h0 align="center">
+    Be my guest! :)
+</h0>
 
 <br/>
