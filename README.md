@@ -10,7 +10,7 @@ Brazilian and independent dev, challenging myself to build creative and high-qua
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,bash,golang,java" /><br>
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,jenkins,mysql,ansible" /><br>
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,jenkins,mysql,ansible,terraform,elasticsearch" /><br>
 </div>
 
 <h3 align="center"> Stats </h3>
