@@ -39,9 +39,8 @@
 [<img align="left" alt="NicolePaixao | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 [twitter]: https://twitter.com/nicoleepaixao
-[youtube]: https://www.youtube.com/c/nicoleepaixao
 [instagram]: https://www.instagram.com/nicoleepaixao/
-[linkedin]: https://linkedin.com/in/nicoleepaixao
+[linkedin]: https://www.linkedin.com/in/nicolepaixao/
 [spotify]: https://open.spotify.com/user/nicoleepaixao
 <br>
 
