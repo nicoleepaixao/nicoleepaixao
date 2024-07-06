@@ -26,11 +26,6 @@
 > "Luck is being ready when the opportunity comes." - [Oprah Winfrey](https://www.instagram.com/oprah/)
 <br>
 
-### Education
-
-- **Bachelor of Technology in Systems Analysis and Development** - FATEC
-<br>
-
 ### Connect with Me 🤝
 
 [<img align="left" alt="NicolePaixao | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
