@@ -1,4 +1,4 @@
-# <samp>Nicole Paixão</samp> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJkdm03Mno0azE1ZTBjaHM1NGxwMXFvdXNpMm8ydjVwNDN3bXdhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L06EGorJr1rTOrJd10/giphy.gif" width="40px" height="40px">
+
 
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://nicoleepaixao.substack.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolepaixao/)
