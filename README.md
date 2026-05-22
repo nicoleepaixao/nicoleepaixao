@@ -6,5 +6,5 @@
 
 <samp>I'm a Senior platform engineer based in São Paulo. I spend my days designing reliability systems, reducing cloud costs, and building the kind of platform that makes engineers actually enjoy their on-call shifts. (Or at least hate them less.)</samp>
 
-- 🪂&nbsp;<samp>Outside of work I'm a fan of life: I love traveling, discovering new places, trying good restaurants, cooking, and spending time with the people I love.</samp>
+- &nbsp;<samp>Outside of work I'm a fan of life: I love traveling, discovering new places, trying good restaurants, cooking, and spending time with the people I love.</samp>
 - 🎓&nbsp;<samp>Courses and certifications [here](https://github.com/nicoleepaixao/list-of-courses-certifications).</samp>
